@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domves&label=Profile%20views&color=0e75b6&style=flat" alt="domves" /> </p>
 
+<p>
+  I am a passionate Test Automation Engineer and Java/PHP Developer with solid experience in building efficient automation solutions using the Screenplay pattern with Selenium Java. My expertise includes maintaining existing codebases and implementing changes in Azure Pipelines via Git. Additionally, I manage reporting in Amazon S3, including the automated creation of Buckets.
+
+In my most recent experience, I excelled in analyzing software requirements and new features. I led the validation of test plans, the creation and execution of functional tests, and the development of automated scripts. My experience encompasses testing SOAP services using tools like SOAP UI, Postman, JMeter, and Selenium WebDriver, leveraging patterns such as Screenplay and POM. I have also conducted data testing through SQL query creation in Oracle and Microsoft SQL Server.
+
+Furthermore, I developed a CRM software using PHP, JavaScript, MySQL, and Bootstrap 5 for managing tickets and preventive/corrective maintenance. This project involved assigning tasks to technicians based on roles, managing email notifications, and presenting detailed information through interactive dashboards. Additionally, I created the company's website, integrating an online store for products and services, employing the same technologies, and managing roles via an administration panel.
+
+My approach goes beyond test execution and software development; I am committed to continuous improvement, operational efficiency, and delivering innovative solutions. I am excited to explore new opportunities and challenges that will allow me to continue growing and contributing to the success of ambitious projects.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-esteban-casta%c3%b1o-casta%c3%b1o-a953371b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-esteban-casta%c3%b1o-casta%c3%b1o-a953371b0/" height="30" width="40" /></a>
