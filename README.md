@@ -1,26 +1,74 @@
-<h1 align="center">Hi 👋, I'm Juan Esteban Castaño</h1>
-<h3 align="center">QA Automation | Full Stack Developer</h3>
+<h1 align="center">Hola 👋, soy Juan Esteban Castaño</h1>
+<h3 align="center">QA Automation | Desarrollador Full Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=domves&label=Profile%20views&color=0e75b6&style=flat" alt="domves" /> </p>
-
-<p>
-  I am a passionate Test Automation Engineer and Java/PHP Developer with solid experience in building efficient automation solutions using the Screenplay pattern with Selenium Java. My expertise includes maintaining existing codebases and implementing changes in Azure Pipelines via Git. Additionally, I manage reporting in Amazon S3, including the automated creation of Buckets.
-
-In my most recent experience, I excelled in analyzing software requirements and new features. I led the validation of test plans, the creation and execution of functional tests, and the development of automated scripts. My experience encompasses testing SOAP services using tools like SOAP UI, Postman, JMeter, and Selenium WebDriver, leveraging patterns such as Screenplay and POM. I have also conducted data testing through SQL query creation in Oracle and Microsoft SQL Server.
-
-Furthermore, I developed a CRM software using PHP, JavaScript, MySQL, and Bootstrap 5 for managing tickets and preventive/corrective maintenance. This project involved assigning tasks to technicians based on roles, managing email notifications, and presenting detailed information through interactive dashboards. Additionally, I created the company's website, integrating an online store for products and services, employing the same technologies, and managing roles via an administration panel.
-
-My approach goes beyond test execution and software development; I am committed to continuous improvement, operational efficiency, and delivering innovative solutions. I am excited to explore new opportunities and challenges that will allow me to continue growing and contributing to the success of ambitious projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=domves&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="domves" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🚀 **Sobre Mí**
+
+Soy **Automatizador de Pruebas** y **Desarrollador Full Stack** apasionado por crear soluciones de software eficientes, escalables y de alta calidad. Tengo experiencia en frameworks de automatización utilizando el **patrón Screenplay** con **Selenium Java**, además de diseñar aplicaciones web robustas.
+
+#### 🛠 **Habilidades Clave**:
+- **CI/CD y Control de Versiones**: Experiencia en la integración y despliegue de código con Azure Pipelines y Git.
+- **Integración en la Nube**: Gestión de recursos y reportes en Amazon S3, incluyendo creación automatizada de buckets.
+- **Pruebas Funcionales**: Planeación, creación/ejecución de casos de prueba, y automatización de flujos de trabajo.
+- **Pruebas de Servicios**: Pruebas de APIs SOAP/REST utilizando herramientas como SOAP UI, Postman, JMeter y Selenium WebDriver.
+- **Validación de Datos**: Conocimientos avanzados en SQL para validar conjuntos de datos en Oracle y MS SQL Server.
+
+---
+
+### 🌟 **Proyectos Destacados**
+- **Desarrollo de un CRM**:
+  - Diseñé una **solución CRM** utilizando PHP, JavaScript, MySQL y Bootstrap 5.
+  - Características principales:
+    - Asignación de usuarios basada en roles.
+    - Notificaciones por correo electrónico sobre actualizaciones de tickets.
+    - Dashboards dinámicos con análisis detallado.
+
+- **Tienda en Línea**:
+  - Creé un sitio web funcional con una tienda en línea integrada.
+  - Características:
+    - Panel de administración basado en roles para la gestión de usuarios.
+    - Interfaz moderna utilizando Bootstrap y una sólida integración de bases de datos.
+
+---
+
+### 📊 **Compromiso con la Excelencia**
+Estoy comprometido con el aprendizaje continuo, la eficiencia operativa y la entrega de soluciones innovadoras que generen impacto. Me encanta colaborar en entornos dinámicos y resolver desafíos complejos con un enfoque orientado a resultados.
+
+¡Conectemos y colaboremos en proyectos emocionantes!
+
+---
+
+### 🌐 **Conecta Conmigo**:
+<a href="https://linkedin.com/in/juan-esteban-castaño-castaño-a953371b0/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Perfil de LinkedIn" height="30" width="40" />
+</a>
+
+---
+
+### 🛠 **Lenguajes y Herramientas**:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-esteban-casta%c3%b1o-casta%c3%b1o-a953371b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-esteban-casta%c3%b1o-casta%c3%b1o-a953371b0/" height="30" width="40" /></a>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40">
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40">
+  <!-- Iconos aquí -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domves&show_icons=true&locale=en&layout=compact" alt="domves" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=domves&" alt="domves" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domves&show_icons=true&locale=es&layout=compact" alt="Lenguajes más usados" />
+</p>
