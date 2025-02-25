@@ -1,74 +1,96 @@
-<h1 align="center">Hola 👋, soy Juan Esteban Castaño</h1>
+<h1 align="center">🚀 Juan Esteban Castaño</h1>
 <h3 align="center">QA Automation | Desarrollador Full Stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=domves&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="domves" />
+  <img src="https://komarev.com/ghpvc/?username=DomVes&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="DomVes" />
 </p>
 
 ---
 
-### 🚀 **Sobre Mí**
+## 📌 Sobre Mí
 
-Soy **Automatizador de Pruebas** y **Desarrollador Full Stack** apasionado por crear soluciones de software eficientes, escalables y de alta calidad. Tengo experiencia en frameworks de automatización utilizando el **patrón Screenplay** con **Selenium Java**, además de diseñar aplicaciones web robustas.
+Soy un profesional en desarrollo de software y automatización de pruebas con una sólida trayectoria en la creación de aplicaciones web, APIs y sistemas empresariales. Mi enfoque se centra en la calidad del software, el rendimiento y la escalabilidad, combinando desarrollo backend y frontend con estrategias avanzadas de pruebas automatizadas.  
 
-#### 🛠 **Habilidades Clave**:
-- **CI/CD y Control de Versiones**: Experiencia en la integración y despliegue de código con Azure Pipelines y Git.
-- **Integración en la Nube**: Gestión de recursos y reportes en Amazon S3, incluyendo creación automatizada de buckets.
-- **Pruebas Funcionales**: Planeación, creación/ejecución de casos de prueba, y automatización de flujos de trabajo.
-- **Pruebas de Servicios**: Pruebas de APIs SOAP/REST utilizando herramientas como SOAP UI, Postman, JMeter y Selenium WebDriver.
-- **Validación de Datos**: Conocimientos avanzados en SQL para validar conjuntos de datos en Oracle y MS SQL Server.
+- 🔍 Apasionado por la calidad del software y la optimización de procesos.  
+- 🚀 Especializado en automatización de pruebas y desarrollo full stack.  
+- 🎯 Enfoque en eficiencia, escalabilidad y experiencia de usuario.  
 
 ---
 
-### 🌟 **Proyectos Destacados**
-- **Desarrollo de un CRM**:
-  - Diseñé una **solución CRM** utilizando PHP, JavaScript, MySQL y Bootstrap 5.
-  - Características principales:
-    - Asignación de usuarios basada en roles.
-    - Notificaciones por correo electrónico sobre actualizaciones de tickets.
-    - Dashboards dinámicos con análisis detallado.
+## 🌟 Proyectos Destacados  
 
-- **Tienda en Línea**:
-  - Creé un sitio web funcional con una tienda en línea integrada.
-  - Características:
-    - Panel de administración basado en roles para la gestión de usuarios.
-    - Interfaz moderna utilizando Bootstrap y una sólida integración de bases de datos.
+### 📊 CRM de Gestión de Soporte Técnico  
+Sistema completo de administración de clientes y tickets de soporte, con panel de control, reportes detallados y estadísticas en tiempo real. Implementa autenticación basada en roles, notificaciones automáticas por correo y WhatsApp, y exportación de datos en Excel y PDF.  
+
+**Tecnologías:** PHP | JavaScript | MySQL  
 
 ---
 
-### 📊 **Compromiso con la Excelencia**
-Estoy comprometido con el aprendizaje continuo, la eficiencia operativa y la entrega de soluciones innovadoras que generen impacto. Me encanta colaborar en entornos dinámicos y resolver desafíos complejos con un enfoque orientado a resultados.
+### 🏆 Automatización de Pruebas con Screenplay  
+Suite de pruebas automatizadas para aplicaciones web, implementando el patrón **Screenplay** en **Java**. Incluye pruebas funcionales con **Selenium WebDriver**, gestión de dependencias con **Maven**, y ejecución con **JUnit** y **TestNG**.  
 
-¡Conectemos y colaboremos en proyectos emocionantes!
-
----
-
-### 🌐 **Conecta Conmigo**:
-<a href="https://linkedin.com/in/juan-esteban-castaño-castaño-a953371b0/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Perfil de LinkedIn" height="30" width="40" />
-</a>
+**Tecnologías:** Java | Selenium WebDriver | JUnit | TestNG | Maven  
 
 ---
 
-### 🛠 **Lenguajes y Herramientas**:
-<p align="left">
+### 🌐 API de Gestión Escolar  
+API robusta para la administración de materias y horarios en instituciones educativas. Facilita la gestión de docentes, estudiantes y asignaturas, permitiendo integraciones con otros sistemas.  
+
+**Tecnologías:** PHP | FastAPI | MySQL  
+
+---
+
+### 🏕️ Plataforma de Reservas de Glamping  
+Aplicación web para la gestión de reservas de alojamientos en entornos naturales. Incluye autenticación de usuarios, control de disponibilidad, integración de pagos y notificaciones en tiempo real.  
+
+**Tecnologías:** ASP.NET 6 | C# | SQL Server  
+
+---
+
+### 🛒 Software de Gestión de Pedidos  
+Sistema de administración de pedidos con seguimiento en tiempo real, generación automática de reportes y notificaciones por correo. Optimizado para la gestión eficiente de solicitudes empresariales.  
+
+**Tecnologías:** PHP | JavaScript | MySQL  
+
+---
+
+### 📝 Blog Web en Laravel  
+Plataforma de blogging con panel de administración, gestión de publicaciones y optimización SEO. Diseño responsivo y experiencia de usuario fluida.  
+
+**Tecnologías:** Laravel 10 | PHP | MySQL  
+
+---
+
+### 🔥 Pruebas de API y Performance  
+Estrategia de validación de servicios REST y SOAP con pruebas de carga y estrés para garantizar estabilidad y escalabilidad.  
+
+**Tecnologías:** Postman | JMeter | SOAP UI  
+
+---
+
+### 🎓 Software de Gestión de Horarios Escolares  
+Aplicación diseñada para la organización eficiente de horarios en instituciones educativas, facilitando la asignación de aulas, docentes y materias.  
+
+**Tecnologías:** PHP | JavaScript | MySQL  
+
+---
+
+## 🌐 Conéctate Conmigo  
+
+<p align="center">
+  <a href="https://linkedin.com/in/juan-esteban-castaño-castaño-a953371b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+## 🛠 Tecnologías & Herramientas  
+
+<p align="center">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40">
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40">
-  <!-- Iconos aquí -->
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domves&show_icons=true&locale=es&layout=compact" alt="Lenguajes más usados" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
 </p>
